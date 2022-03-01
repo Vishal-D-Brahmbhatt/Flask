@@ -46,8 +46,6 @@ app/dyno.
 
 .pylintrc is the config for pylint, .coveragerc is the config for coverage and setup.py is a config file for pytest
 
+## HEROKU APP LINK
 
-### Future Notes and Resources
-* https://flask-user.readthedocs.io/en/latest/basic_app.html
-* https://hackersandslackers.com/flask-application-factory/
-* https://suryasankar.medium.com/a-basic-app-factory-pattern-for-production-ready-websites-using-flask-and-sqlalchemy-dbb891cdf69f
+* [APP LINK](https://vishal-flask-heroku.herokuapp.com/)
